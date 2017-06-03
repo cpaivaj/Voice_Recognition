@@ -1,0 +1,9 @@
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\voiceRecognition.exe.config
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\voiceRecognition.exe
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\voiceRecognition.pdb
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\bin\Debug\Microsoft.Speech.dll
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.csprojResolveAssemblyReference.cache
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.Properties.Resources.resources
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.csproj.GenerateResource.Cache
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.exe
+E:\backup\Documentos\PROGRAMACAO\Prog C#\voiceRecognition\voiceRecognition\obj\Debug\voiceRecognition.pdb
